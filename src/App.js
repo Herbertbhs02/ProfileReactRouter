@@ -1,10 +1,12 @@
 import "./styles.css";
 import React, { Component } from "react";
 
-import Home from "./Home";
-import Counters from "./Counters";
+import TechSkills from "./TechSkills";
+import DevSkills from "./DevSkills";
 import Contact from "./Contact";
 import Projects from "./Projects";
+import Employment from './Employment'
+
 import { Route, Link, BrowserRouter as Router } from "react-router-dom";
 import "bootstrap/dist/css/bootstrap.css";
 
@@ -13,38 +15,46 @@ class App extends Component {
     return (
       <Router>
         <div>
-          <div class="container">
-            <ul class="nav">
-              <li class="nav-item">
+          <div className="container">
+            <ul className="nav">
+              <li className="nav-item">
                 <Link className="link" to="/">
-                  Home
+                WebDevSkills
                 </Link>
               </li>
-              <li class="nav-item">
-                <Link to="/Counters" className="link">
-                  Counters
+              <li className="nav-item">
+                <Link to="/TechSkills" className="link">
+                   TechSkills
                 </Link>
               </li>
 
-              <li class="nav-item">
+              <li className="nav-item">
                 <Link to="/Projects" className="link">
                   Projects
                 </Link>
               </li>
 
-              <li class="nav-item">
-                <Link to="/contact" className="link">
-                  Contact
-                </Link>
+              <li className="nav-item">
+                <Link to="/Employment" className="link">
+                  Employment
+                </Link> 
               </li>
+
+              <li className="nav-item">
+              <Link to="/Contact" className="link">
+                Contact
+              </Link> 
+            </li>
+
             </ul>
           </div>
 
           <hr />
           <div>
-            <Route exact path="/" component={Home} />
-            <Route path="/Counters" component={Counters} />
+            <Route exact path="/" component={DevSkills} />
+            <Route path="/TechSkills" component={TechSkills} />
             <Route path="/Projects" component={Projects} />
+            <Route path="/Employment" component={Employment} />
             <Route path="/contact" component={Contact} />
           </div>
         </div>

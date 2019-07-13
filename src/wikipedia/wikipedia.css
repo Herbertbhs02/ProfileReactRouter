@@ -1,0 +1,21 @@
+.wiki{
+	
+	background: #5fddc1;
+	padding: 1%;
+	margin: 3%;
+ 
+}
+
+
+
+
+.wiki p{
+	
+	border:2px solid rgb(82, 69, 69);
+	border-radius: 5px;
+	text-align: justify;
+	padding: 5px;
+	
+	
+	
+}

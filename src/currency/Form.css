@@ -1,0 +1,11 @@
+.Userselection{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color:rgb(151, 109, 111);
+     margin-left: 10%;
+    margin-right: 10%; 
+    border-radius: 5px;
+    padding-bottom: 5px;
+}
+
