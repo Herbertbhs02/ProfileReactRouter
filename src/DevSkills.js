@@ -19,7 +19,7 @@ const DevSkills = () => (
           </li>
 
           <li style={{textIndent:'20px'}}>
-          I have build several small Apps using react,react-Router, Redux. Click on Projects link in the navbar to check out some of my projects.
+          I have built several small Apps using react,react-Router, Redux. Click on Projects link in the navbar to check out some of my projects.
           </li>
 
           <li style={{textIndent:'20px'}}>
@@ -27,7 +27,7 @@ const DevSkills = () => (
           </li>
 
           <li style={{textIndent:'20px'}}>
-          JavaScript certificate in algorithim and data structures.
+          JavaScript certificate in algorithm and data structures.
            </li>
 
            <li style={{textIndent:'20px'}}>
@@ -35,7 +35,7 @@ const DevSkills = () => (
            </li>
 
            <li style={{textIndent:'20px'}}>
-           I have written several small programs I call,'Building Blocks',to decipher tricky concepts to grasp, e.g Redux.
+           I have written several small programs I call, 'Building Blocks', to decipher tricky concepts to grasp, e.g Redux.
             </li>
 
             <li style={{textIndent:'20px'}}>
