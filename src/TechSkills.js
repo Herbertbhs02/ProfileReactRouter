@@ -6,13 +6,12 @@ const TechSkills = () => (
   <div className='TechSkills'>
     <h2>TechSkills</h2>
     <ul>
-    <li>Electronics Components specialist</li>
-    <li>A good understanding of PC hardware and laptops; I used to build and repair PCs and laptops as a side job</li>
-    <li>Computer Networks: From application layer to physicAL layer. Cisco switches and routers</li>
-    <li>Tetra radio configuration and baseRadio</li>
-    <li>A good knowledge of cell phone infrastructure</li>
-    <li>Programming language: JavaScript,VBExcel,Machine code and Python-Last used Python 5 years ago and my skills are a bit rusty on this one..</li>
-    
+      <li>Web development.</li><br/>
+      <li>Electronics Components Engineer and Material Analysis.</li><br/>
+      <li><span style={{fontWeight:"bold"}}>Wireless systems:</span> Tetra Radio and cell phone infrastructure.</li><br/>
+      <li><span style={{fontWeight:"bold"}}>Programming languages:</span>JavaScript, VBExcel and a fair knowledge Python and Machine code.</li><br/>
+      <li><span style={{fontWeight:"bold"}}>Computer Networks:</span>A good understanding of computer network, from application layer to physical layer, Cisco switches and routers</li><br/>
+      <li><span style={{fontWeight:"bold"}}>Other Common Skills:</span> MS Office.</li><br/>
     </ul>
   </div>
 );

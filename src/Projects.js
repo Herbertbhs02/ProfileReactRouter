@@ -5,7 +5,8 @@ import Calculator from './Calculator';
 import Currency from './Currency';
 import AdminInterface from './AdminInterface';
 import Weather from './Weather';
-import Wikipedia from './Wikipedia'
+import Wikipedia from './Wikipedia';
+import Connectbambi from './Connectbambi'
  
 
  class Projects extends React.Component {
@@ -44,17 +45,20 @@ import Wikipedia from './Wikipedia'
         </div>
 
         <div key={2} className='sl'>
+           <Connectbambi/>
+        </div>
+        <div key={3} className='sl'>
            <Weather/>
         </div>
 
-        <div key={3} className='sl'>
+        <div key={4} className='sl'>
         <Wikipedia/>
         </div>
-        <div key={4} className='sl'>
+        <div key={5} className='sl'>
              <AdminInterface/>
         </div>
 
-        <div key={5} className='sl'>
+        <div key={6} className='sl'>
             <Calculator/>
         </div>
           

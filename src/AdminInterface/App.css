@@ -44,3 +44,11 @@ tr,td{
 .disable{
   background:#ff8c00;
 }
+
+.connectbambi{
+  background: #ffa07a;
+  margin-left: 30%;
+  margin-right: 30%;
+  text-align: left;
+  padding: 10px;
+}

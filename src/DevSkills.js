@@ -11,39 +11,32 @@ const DevSkills = () => (
     
        <ul >
           <li style={{textIndent:'20px'}}>
-           Front End Development with HTML,CSS,Flex-box,sass,handlebars,JavaScript,Reactjs,REST API with JSON,Github and Redux
-          </li>
+           <span style={{fontWeight:"bold"}}>Front End Development stills:</span> HTML, CSS(Flex-box, css grid,saas and bootstrap), JavaScript, REST API, JSON, Reactjs--Redux and Github. 
+          </li><br/>
 
           <li style={{textIndent:'20px'}}>
-          This profile website you are viewing now was designed and developed by me. It also renders very well on small devices and its very fast.
-          </li>
+          <span style={{fontWeight:"bold"}}>Back End stills: </span>Nodejs, Express, bcrypt, jwtToken, mongoose and MongoDB.
+          </li><br/>
 
           <li style={{textIndent:'20px'}}>
-          I have built several small Apps using react,react-Router, Redux. Click on Projects link in the navbar to check out some of my projects.
-          </li>
+          <span style={{fontWeight:"bold"}}>DataBase: </span>I have used the following databases in my projects: MongoDB, Firebase and Mysql.
+          </li><br/>
 
           <li style={{textIndent:'20px'}}>
-         DataBase:Firebase,MongoDB and Mysql.
-          </li>
+          <span style={{fontWeight:"bold"}}>Certification: </span>JavaScript certificate in algorithm and data structures from freecodecamp.
+           </li><br/>
 
-          <li style={{textIndent:'20px'}}>
-          JavaScript certificate in algorithm and data structures.
-           </li>
-
+          
            <li style={{textIndent:'20px'}}>
-          Half-way through Nodejs course for Back-End development.
-           </li>
-
-           <li style={{textIndent:'20px'}}>
-           I have written several small programs I call, 'Building Blocks', to decipher tricky concepts to grasp, e.g Redux.
-            </li>
+           <span style={{fontWeight:"bold"}}>Boilerplate: </span>I have written several small programs which I normally use in my projects, to decipher tricky concepts to grasp, e.g CSS Grid, Forms in Reactjs and Redux for state.
+            </li><br/>
 
             <li style={{textIndent:'20px'}}>
-          A Good understanding of Docker concept and the adventages of Docker over Virtual Machine.
-             </li>
+            <span style={{fontWeight:"bold"}}>Docker: </span>A Good understanding of Docker concept and the adventages of Docker over Virtual Machine.
+             </li><br/>
 
              <li style={{textIndent:'20px'}}>
-             Learning Road Map:Finish Nodejs course,AWS Docker,Testing and Application of AI in web development
+             <span style={{fontWeight:"bold"}}>Self Development Road Map: </span>Consolidation of Reactjs and Nodjs and learn more about AWS, Docker,Testing and Application of AI in web development
                 </li>
 
        </ul>
