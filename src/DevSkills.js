@@ -11,11 +11,12 @@ const DevSkills = () => (
     
        <ul >
           <li style={{textIndent:'20px'}}>
-           <span style={{fontWeight:"bold"}}>Front End Development stills:</span> HTML, CSS(Flex-box, css grid,saas and bootstrap), JavaScript, REST API, JSON, Reactjs--Redux and Github. 
+           <span style={{fontWeight:"bold"}}>Front End Development skills:</span> HTML, CSS(Flex-box, css grid,saas and bootstrap), JavaScript, REST API, JSON, Reactjs--Redux and Github. This profile website 
+           was developed and being updated and maintained by me.
           </li><br/>
 
           <li style={{textIndent:'20px'}}>
-          <span style={{fontWeight:"bold"}}>Back End stills: </span>Nodejs, Express, bcrypt, jwtToken, mongoose and MongoDB.
+          <span style={{fontWeight:"bold"}}>Back End skills: </span>Nodejs, Express, bcrypt, jwtToken, mongoose and MongoDB.
           </li><br/>
 
           <li style={{textIndent:'20px'}}>
