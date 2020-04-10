@@ -29,7 +29,7 @@ const DevSkills = () => (
 
           
            <li style={{textIndent:'20px'}}>
-           <span style={{fontWeight:"bold"}}>Boilerplate: </span>I have written several small programs which I normally use in my projects, to decipher tricky concepts to grasp, e.g CSS Grid, Forms in Reactjs and Redux for state.
+           <span style={{fontWeight:"bold"}}>Boilerplate: </span>I have written several small programs which I normally use in my projects, to decipher tricky concepts to grasp, e.g CSS Grid, Forms in Reactjs and Redux for state management.
             </li><br/>
 
             <li style={{textIndent:'20px'}}>
