@@ -33,7 +33,7 @@ const DevSkills = () => (
             </li><br/>
 
             <li style={{textIndent:'20px'}}>
-            <span style={{fontWeight:"bold"}}>Docker: </span>A Good understanding of Docker concept and the adventages of Docker over Virtual Machine.
+            <span style={{fontWeight:"bold"}}>Docker: </span>A Good understanding of Docker concept and the advantages of Docker over Virtual Machine.
              </li><br/>
 
              <li style={{textIndent:'20px'}}>
