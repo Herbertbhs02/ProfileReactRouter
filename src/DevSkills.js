@@ -11,8 +11,8 @@ const DevSkills = () => (
     
        <ul >
           <li style={{textIndent:'20px'}}>
-           <span style={{fontWeight:"bold"}}>Front End Development skills:</span> HTML, CSS(Flex-box, css grid,saas and bootstrap), JavaScript, REST API, JSON, Reactjs--Redux and Github. This profile website 
-           was developed and being updated and maintained by me.
+           <span style={{fontWeight:"bold"}}>Front End Development skills:</span> HTML, CSS(Flex-box, css grid,saas and bootstrap), JavaScript, REST API, JSON, Reactjs--Redux and Github.<br/>
+          <p>I have used some of these skills  to develop the following websites: www.sevdigital.com and https://www.connectbambi.com/  </p>
           </li><br/>
 
           <li style={{textIndent:'20px'}}>
@@ -29,11 +29,11 @@ const DevSkills = () => (
 
           
            <li style={{textIndent:'20px'}}>
-           <span style={{fontWeight:"bold"}}>Boilerplate: </span>I have written several small programs which I normally use in my projects, to decipher tricky concepts to grasp, e.g CSS Grid, Forms in Reactjs and Redux for state management.
+           <span style={{fontWeight:"bold"}}>Boilerplate: </span>I have written several small programs which I use to illustrate and simplify tricky concepts.  e.g CSS Grid, Forms in Reactjs and Redux for state management.
             </li><br/>
 
             <li style={{textIndent:'20px'}}>
-            <span style={{fontWeight:"bold"}}>Docker: </span>A Good understanding of Docker concept and the advantages of Docker over Virtual Machine.
+            <span style={{fontWeight:"bold"}}>Docker: </span>A good understanding of Docker concept and the advantages of Docker over Virtual Machine.
              </li><br/>
 
              <li style={{textIndent:'20px'}}>
